@@ -60,8 +60,6 @@ if($_POST["submit"]) {
 
         <input type="submit" name="submit">
     </form>
-
-</body>
             
         </div>
         <div class="footer">
